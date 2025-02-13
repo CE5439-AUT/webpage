@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Fall 2025"
 
 baseurl: "/Webpage" # the subpath of your site, e.g. /blog/
-url: "http://ce5439-aut.github.io/" # the base hostname & protocol for your site
+url: "http://ce5439-aut.github.io/webpage" # the base hostname & protocol for your site
 
 schoolname: "CE Dep. Amirkabir University of Technology (Tehran Polytechnic)"
 schoolurl: "https://ce.aut.ac.ir"
