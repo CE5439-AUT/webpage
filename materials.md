@@ -4,7 +4,7 @@ title: Course Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/Cover_Digital_Ed2_MIT_Smaller.png" width=175 align="right" %}
 
 ## Book
 
