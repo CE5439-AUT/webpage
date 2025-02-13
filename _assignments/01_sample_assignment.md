@@ -53,3 +53,11 @@ where \( k_T \) is the motor torque constant, \( i(t) \) is the current at time 
 where \( R \) is the resistance of the motor windings and \( k_b \) is a constant called the motor back electromagnetic force constant. The second term appears because a rotating motor also functions as an electrical generator, where the voltage generated is proportional to the angular velocity.
 
 Modify your actor model so that the inputs are \( v \) and \( x \) rather than \( i \) and \( x \).
+
+
+### Q7:
+* Using your favorite continuous-time modeling software (such as LabVIEW, Simulink, or Ptolemy II), construct a model of the helicopter control system shown in Figure 2.4. Choose some reasonable parameters and plot the actual angular velocity as a function of time, assuming that the desired angular veloc- ity is zero, ![equation](https://latex.codecogs.com/png.image?\psi(t)=0), and that the top-rotor torque is non-zero, ![equation](https://latex.codecogs.com/png.image?T_t(t)=bu(t)). Give your plot for several values of \( K \) and discuss how the behavior varies with \( K \).
+
+* Modify the model of part 1 to replace the Controller of Figure 2.4 (the simple scale-by-\(K\) actor) with the alternative controller shown in Figure 2.6. This alternative controller is called a \textbf{proportional-integrator (PI) controller}. It has two parameter \(K1\) and \(K2\) . Experiment with the values of these parame- ters, give some plots of the behavior with the same inputs as in part 1, and discuss the behavior of this controller in contrast to the one of part 1.
+
+![image](/static_files/assignments/HW1/Q7_img.png)
