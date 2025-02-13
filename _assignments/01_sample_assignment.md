@@ -11,6 +11,13 @@ due_event:
     description: 'Assignment #1 due'
 ---
 
-## Questions:
+## Problems:
 
-### 2. Show that if a system ![equation](https://latex.codecogs.com/png.image?A^\mathbb{R}%20\rightarrow%20B^\mathbb{R}) is **strictly causal** and **memoryless**, then its output is constant. Constant means that the output ![equation](https://latex.codecogs.com/png.image?(S(x))(t)) \( (S(x)(t)) \)  at time \( t \) does not depend on \( t \).
+### 2. Show that if a system ![equation](https://latex.codecogs.com/png.image?A^\mathbb{R}%20\rightarrow%20B^\mathbb{R}) is **strictly causal** and **memoryless**, then its output is constant. Constant means that the output ![equation](https://latex.codecogs.com/png.image?(S(x))(t)) at time \( t \) does not depend on \( t \).
+
+
+
+### 3. This exercise studies linearity.
+* Show that the helicopter model defined in Example 2.1 is linear if and only if the initial angular velocity ![equation](https://latex.codecogs.com/png.image?\dot{\theta}_{y}(0) = 0)
+* Show that the cascade of any two linear actors is linear.
+* Augment the definition of linearity so that it applies to actors with two input signals and one output signal. Show that the adder actor is linear.
