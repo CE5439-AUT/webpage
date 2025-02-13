@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2025-02-13T8:0:0+3:30
+date: 2025-05-13T8:0:0+3:30
 description: 'Midterm'
 hide_from_announcments: true
 ---
