@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/ch1/Ch 1 and Introduction.pdf
+    - url: /static_files/presentations/ch1/Ch1_and_Introduction.pdf
       name: slides
 ---
 **Suggested Readings:**
