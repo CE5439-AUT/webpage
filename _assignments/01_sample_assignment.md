@@ -13,19 +13,25 @@ due_event:
 
 ## Problems:
 
-### 2. 
+### Q2. 
 Show that if a system ![equation](https://latex.codecogs.com/png.image?A^\mathbb{R}%20\rightarrow%20B^\mathbb{R}) is strictly causal and memoryless, then its output is constant. Constant means that the output ![equation](https://latex.codecogs.com/png.image?(S(x))(t)) at time \( t \) does not depend on \( t \).
 
 
 
-### 3. 
+### Q3. 
 This exercise studies linearity.
 * Show that the helicopter model defined in Example 2.1 is linear if and only if the initial angular velocity ![equation](https://latex.codecogs.com/png.image?\dot{\theta}_{y}(0) = 0)
 * Show that the cascade of any two linear actors is linear.
 * Augment the definition of linearity so that it applies to actors with two input signals and one output signal. Show that the adder actor is linear.
 
 
-### 4. 
+### Q4. 
 Consider the helicopter of Example 2.1, but with a slightly different definition of the input and output. Suppose that, as in the example, the input is ![equation](https://latex.codecogs.com/png.image?T_y: \mathbb{R} \rightarrow \mathbb{R}), as in the example, but the output is the position of the tail relative to the main rotor shaft. Specifically, let the \( x-y \) plane be the plane orthogonal to the rotor shaft, and let the position of the tail at time \( t \) be given by a tuple \( ((x(t), y(t))) \)  Is this model LTI? Is it BIBO stable?
 
 
+### Q5:
+Consider a rotating robot where you can control the angular velocity around a fixed axis.
+
+* Model this as a system where the input is angular velocity ![equation](https://latex.codecogs.com/png.image?\dot{\theta}) and the output is angle ![equation](https://latex.codecogs.com/png.image?\theta) Give your model as an equation relating the input and output as functions of time.
+* Is this model BIBO stable?
+* Design a proportional controller to set the robot onto a desired angle. That is, assume that the initial angle is ![equation](https://latex.codecogs.com/png.image?\theta(0)=0), and let the desired angle be ![equation](https://latex.codecogs.com/png.image?\ps (t)=au(t)) where $u$ is the unit step function. Find the actual angle as a function of time and the proportional controller feedback gain \( K \). What is your output at \( t=0 \)? What does it approach as \( t \) gets large?
