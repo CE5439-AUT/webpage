@@ -27,3 +27,5 @@ This exercise studies linearity.
 
 ### 4. 
 Consider the helicopter of Example 2.1, but with a slightly different definition of the input and output. Suppose that, as in the example, the input is ![equation](https://latex.codecogs.com/png.image?T_y: \mathbb{R} \rightarrow \mathbb{R}), as in the example, but the output is the position of the tail relative to the main rotor shaft. Specifically, let the \( x-y \) plane be the plane orthogonal to the rotor shaft, and let the position of the tail at time \( t \) be given by a tuple \( ((x(t), y(t))) \)  Is this model LTI? Is it BIBO stable?
+
+
