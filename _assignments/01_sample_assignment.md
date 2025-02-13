@@ -61,3 +61,5 @@ Modify your actor model so that the inputs are \( v \) and \( x \) rather than \
 * Modify the model of part 1 to replace the Controller of Figure 2.4 (the simple scale-by-\(K\) actor) with the alternative controller shown in Figure 2.6. This alternative controller is called a \textbf{proportional-integrator (PI) controller}. It has two parameter \(K1\) and \(K2\) . Experiment with the values of these parame- ters, give some plots of the behavior with the same inputs as in part 1, and discuss the behavior of this controller in contrast to the one of part 1.
 
 ![image](/static_files/assignments/HW1/Q7_img.png)
+
+<img src="/static_files/assignments/HW1/Q7_img.png" alt="System Design" width="400" height="300">
