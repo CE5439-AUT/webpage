@@ -63,3 +63,5 @@ Modify your actor model so that the inputs are \( v \) and \( x \) rather than \
 ![image](/static_files/assignments/HW1/Q7_img.png)
 
 <img src="/static_files/assignments/HW1/Q7_img.png" alt="System Design" width="400" height="300">
+
+{% include image.html url="/static_files/assignments/HW1/Q7_img.png" width=175 align="center" %}
