@@ -13,4 +13,5 @@ due_event:
 
 ## Questions:
 
-### 2. Show that if a system $S: A^\mathbb{R} \rightarrow B^\mathbb{R}$ is strictly causal and memoryless then its output is constant. Constant means that the output $(S(x))(t)$ at time $t$ does not depend on $t$.
+### 2. 
+Show that if a system $S: A^\mathbb{R} \rightarrow B^\mathbb{R}$ is strictly causal and memoryless then its output is constant. Constant means that the output $(S(x))(t)$ at time $t$ does not depend on $t$.
