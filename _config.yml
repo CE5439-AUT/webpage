@@ -6,14 +6,20 @@ course_semester: "Fall 2025"
 baseurl: "/Webpage" # the subpath of your site, e.g. /blog/
 url: "http://ce5439-aut.github.io/webpage" # the base hostname & protocol for your site
 
-schoolname: "CE Dep. Amirkabir University of Technology (Tehran Polytechnic)"
+schoolname: "Amirkabir University of Technology (Tehran Polytechnic)"
 schoolurl: "https://ce.aut.ac.ir"
-twitter_username: username 
+twitter_username: adinep0ur 
+
+# Author/user information
+email: adinepour@aut.ac.ir
+twitter_username: adinep0ur 
+github_username:  rezaAdinepour
+authorurl: "http://webpages.iust.ac.ir/pilehvar/"
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Computer Engineering Department
+    Amirkabir University of Technology
+    Tehran, Iran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
