@@ -8,13 +8,8 @@ permalink: /materials/
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+Lee & Seshia: Introduction to Embedded Systems - A Cyber-Physical Systems Approach
 
 ## Additional Course Materials
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* You can download pdf version of book from [here](https://ptolemy.berkeley.edu/books/leeseshia/index.html)
