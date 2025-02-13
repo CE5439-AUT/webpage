@@ -13,4 +13,4 @@ due_event:
 
 ## Questions:
 
-### 2. Show that if a system ![equation](https://latex.codecogs.com/png.image?A^\mathbb{R}%20\rightarrow%20B^\mathbb{R}) is **strictly causal** and **memoryless**, then its output is constant. Constant means that the output ![equation](https://latex.codecogs.com/png.image?(S(x))(t)) at time \( t \) does not depend on \( t \).
+### 2. Show that if a system ![equation](https://latex.codecogs.com/png.image?A^\mathbb{R}%20\rightarrow%20B^\mathbb{R}) is **strictly causal** and **memoryless**, then its output is constant. Constant means that the output ![equation](https://latex.codecogs.com/png.image?(S(x))(t)) \( (S(x)(t)) \)  at time \( t \) does not depend on \( t \).
