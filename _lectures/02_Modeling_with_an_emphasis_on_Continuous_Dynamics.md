@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-02-13T8:00:00+4:30
-title: Introduction
+title: Ch2. Continuous Dynamics 
 tldr: "Modeling with an emphasis on Continuous Dynamics"
 thumbnail: /static_files/presentations/ch2/ch2_title.png
 links: 

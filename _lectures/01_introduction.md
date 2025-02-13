@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-02-13T8:00:00+4:30
-title: Introduction
+title: Ch1. Introduction
 tldr: "Embedded & Cyber Physical systems: Definition, importance and pervasiveness"
 thumbnail: /static_files/presentations/ch1/ch1_title.png
 links: 
