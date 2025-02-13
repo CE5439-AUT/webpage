@@ -26,15 +26,15 @@ layout: default
     <br>
     <div>
         <div style="width:35%; float: left">
-            <!-- <h2>Instructors</h2> -->
+            <!-- <h2>Instructor</h2> -->
             <!-- <div class="image--cover-container">
                 <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
                 <p>{{site.data.people.instructor.name}}</p>
             </div> -->
 
             <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
-                {% for ins in site.data.people.instructors %}
+                <h2>Instructor</h2>
+                {% for ins in site.data.people.instructor %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
