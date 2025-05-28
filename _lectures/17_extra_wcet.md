@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-29T8:00:00+4:30
+date: 2025-05-29T8:00:00+4:30
 title: Extra. Worst-Case Execution Time Prediction by Static Program Analysis
 tldr: "Measuring the execution time seems to be a simple alternative to WCET determination by static analysis."
 thumbnail: /static_files/presentations/ch_extra_wcet/aiT_WCET_title.png
