@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/ch_extra_wcet/aiT_WCET_title.pdf
+    - url: /static_files/presentations/ch_extra_wcet/aiT_WCET.pdf
       name: slides
 ---
 **Suggested Readings:**
