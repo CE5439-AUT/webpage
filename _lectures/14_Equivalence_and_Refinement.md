@@ -13,4 +13,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Chapter thirteen of book](https://ptolemy.berkeley.edu/books/leeseshia/index.html)
+- [Chapter fourteen of book](https://ptolemy.berkeley.edu/books/leeseshia/index.html)
